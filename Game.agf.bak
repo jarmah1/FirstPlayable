@@ -2368,11 +2368,11 @@
             <MovementSpeedY>0</MovementSpeedY>
             <NormalView>3</NormalView>
             <Properties />
-            <RealName xml:space="preserve">New character</RealName>
+            <RealName xml:space="preserve">The Sailor</RealName>
             <ScriptName>cTheSailor</ScriptName>
             <Solid>True</Solid>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
-            <SpeechColor>12</SpeechColor>
+            <SpeechColor>52267</SpeechColor>
             <SpeechView>0</SpeechView>
             <StartX>20</StartX>
             <StartY>168</StartY>
@@ -2393,6 +2393,48 @@
               <Event Index="7" />
             </Interactions>
           </Character>
+          <Character>
+            <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
+            <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
+            <AnimationDelay>4</AnimationDelay>
+            <BlinkingView>0</BlinkingView>
+            <Clickable>True</Clickable>
+            <DiagonalLoops>True</DiagonalLoops>
+            <ID>1</ID>
+            <IdleAnimationDelay>4</IdleAnimationDelay>
+            <IdleDelay>20</IdleDelay>
+            <IdleView>0</IdleView>
+            <MovementLinkedToAnimation>True</MovementLinkedToAnimation>
+            <MovementSpeed>3</MovementSpeed>
+            <MovementSpeedX>0</MovementSpeedX>
+            <MovementSpeedY>0</MovementSpeedY>
+            <NormalView>4</NormalView>
+            <Properties />
+            <RealName xml:space="preserve">Helpful Sailor</RealName>
+            <ScriptName>cHelpfulSailor</ScriptName>
+            <Solid>True</Solid>
+            <SpeechAnimationDelay>5</SpeechAnimationDelay>
+            <SpeechColor>65238</SpeechColor>
+            <SpeechView>0</SpeechView>
+            <StartX>139</StartX>
+            <StartY>164</StartY>
+            <StartingRoom>1</StartingRoom>
+            <ThinkingView>0</ThinkingView>
+            <TurnBeforeWalking>True</TurnBeforeWalking>
+            <UniformMovementSpeed>True</UniformMovementSpeed>
+            <UseRoomAreaLighting>True</UseRoomAreaLighting>
+            <UseRoomAreaScaling>True</UseRoomAreaScaling>
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2">cHelpfulSailor_Talk</Event>
+              <Event Index="3" />
+              <Event Index="4" />
+              <Event Index="5" />
+              <Event Index="6" />
+              <Event Index="7" />
+            </Interactions>
+          </Character>
         </Characters>
       </CharacterFolder>
     </Characters>
@@ -2400,7 +2442,32 @@
     <Dialogs>
       <DialogFolder Name="Main">
         <SubFolders />
-        <Dialogs />
+        <Dialogs>
+          <Dialog>
+            <ID>0</ID>
+            <Name>dDialog1</Name>
+            <ShowTextParser>False</ShowTextParser>
+            <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+cTheSailor: Hey there! Are you also here for the treasure???
+cHelpfulSailor: Hahaha.... no. I'm merely here to give you a few pieces of advice before you head off to get the treasure
+cTheSailor: Oh really? Like what?
+cHelpfulSailor: Well for starters, understand that you will need to protect yourself when looking for treasure
+cHelpfulSailor: There's plenty of sea pirates that you will need to fight throughout the game so that you get the treasure
+cTheSailor: But what will I protect myself with?
+cHelpfulSailor: Don't worry, There's a few tools on your right(next room on right) that you can use to fight off those sea pirates
+cHelpfulSailor: I'm not too sure how to put those tools together, but you seem like a pretty sharp lad , so i'm sure you'll figure a way to craft them.
+cTheSailor: Yeah I'll probably figure something out... Anything else?
+cHelpfulSailor: Oh yeah, speaking of being pretty sharp, you also have a few riddles that you'll need to figure out too.
+cHelpfulSailor: Those will be important, as some places of the sea won't always allow you to enter immediately.
+cHelpfulSailor: Some areas won't require a riddle, and rather a key to use.
+cTheSailor: Sounds good to me.
+cHelpfulSailor: Alrighty then, good luck on achiveing the treasure, I believe in you young sailor!!!!
+return
+]]></Script>
+            <DialogOptions />
+          </Dialog>
+        </Dialogs>
       </DialogFolder>
     </Dialogs>
     <Cursors>
@@ -5066,6 +5133,56 @@
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>4</ID>
+            <Name>ViewHelpfulSailor</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>15</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
               </Loop>
             </Loops>
           </View>
