@@ -1,0 +1,6 @@
+Game : (room:1)[R 10] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
+Game : (room:1)[R 13] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
+Game : (room:1)[R 16] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
+Game : (room:1)[R 19] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
+Game : (room:1)[R 22] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
+Game : (room:1)[R 25] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
