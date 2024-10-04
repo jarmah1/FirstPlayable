@@ -1,0 +1,1 @@
+var gamefiles = ['FirstPlayable.ags', 'acsetup.cfg'];

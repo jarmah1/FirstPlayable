@@ -19,7 +19,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=FirstPlayable,Windows=FirstPlayable,_Debug=FirstPlayable,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=FirstPlayable,Windows=FirstPlayable,_Debug=FirstPlayable,Web=FirstPlayable,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
