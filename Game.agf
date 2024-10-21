@@ -4375,17 +4375,17 @@ return
                   </Sprite>
                 </Sprites>
               </SpriteFolder>
-              <SpriteFolder Name="BrickWall">
+              <SpriteFolder Name="SeaKelp">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="20" Width="66" Height="54" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="20" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\jarmah\Downloads\Brick Wall-1.png.png</FileName>
-                      <OffsetX>101</OffsetX>
-                      <OffsetY>146</OffsetY>
-                      <ImportHeight>54</ImportHeight>
-                      <ImportWidth>66</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <FileName>C:\Users\jarmah\Downloads\Kelp.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>200</ImportHeight>
+                      <ImportWidth>320</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
