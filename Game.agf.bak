@@ -673,9 +673,9 @@
         <GUIs>
           <GUIMain>
             <NormalGUI>
-              <BackgroundColor>32089</BackgroundColor>
+              <BackgroundColor>56973</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <BorderColor>32089</BorderColor>
+              <BorderColor>56973</BorderColor>
               <Clickable>True</Clickable>
               <Height>14</Height>
               <ID>0</ID>
@@ -749,9 +749,9 @@
           </GUIMain>
           <GUIMain>
             <NormalGUI>
-              <BackgroundColor>32089</BackgroundColor>
+              <BackgroundColor>56973</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <BorderColor>32089</BorderColor>
+              <BorderColor>56973</BorderColor>
               <Clickable>True</Clickable>
               <Height>29</Height>
               <ID>1</ID>
@@ -775,21 +775,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>0</ID>
-                <Image>2100</Image>
+                <Image>50</Image>
                 <Left>1</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2101</MouseoverImage>
+                <MouseoverImage>32</MouseoverImage>
                 <Name>btnIconWalk</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick />
-                <PushedImage>2102</PushedImage>
+                <PushedImage>50</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>0</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -800,21 +800,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>1</ID>
-                <Image>2104</Image>
+                <Image>49</Image>
                 <Left>33</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2105</MouseoverImage>
+                <MouseoverImage>33</MouseoverImage>
                 <Name>btnIconExamine</Name>
                 <NewModeNumber>1</NewModeNumber>
                 <OnClick />
-                <PushedImage>2106</PushedImage>
+                <PushedImage>49</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>1</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -825,21 +825,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>2</ID>
-                <Image>2108</Image>
+                <Image>48</Image>
                 <Left>65</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2109</MouseoverImage>
+                <MouseoverImage>34</MouseoverImage>
                 <Name>btnIconInteract</Name>
                 <NewModeNumber>2</NewModeNumber>
                 <OnClick />
-                <PushedImage>2110</PushedImage>
+                <PushedImage>48</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>2</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -850,21 +850,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>3</ID>
-                <Image>2112</Image>
+                <Image>47</Image>
                 <Left>97</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2113</MouseoverImage>
+                <MouseoverImage>35</MouseoverImage>
                 <Name>btnIconTalk</Name>
                 <NewModeNumber>3</NewModeNumber>
                 <OnClick />
-                <PushedImage>2114</PushedImage>
+                <PushedImage>47</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>3</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -875,21 +875,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>4</ID>
-                <Image>2120</Image>
+                <Image>44</Image>
                 <Left>129</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2121</MouseoverImage>
+                <MouseoverImage>36</MouseoverImage>
                 <Name>btnIconInv</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconInv_Click</OnClick>
-                <PushedImage>2122</PushedImage>
+                <PushedImage>44</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>4</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -900,21 +900,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>5</ID>
-                <Image>2124</Image>
+                <Image>51</Image>
                 <Left>161</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2124</MouseoverImage>
+                <MouseoverImage>37</MouseoverImage>
                 <Name>btnIconCurInv</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconCurInv_Click</OnClick>
-                <PushedImage>2126</PushedImage>
+                <PushedImage>51</PushedImage>
                 <Text>(INVSHR)</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>5</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -925,21 +925,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>6</ID>
-                <Image>2128</Image>
+                <Image>45</Image>
                 <Left>193</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2129</MouseoverImage>
+                <MouseoverImage>38</MouseoverImage>
                 <Name>btnIconSave</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconSave_Click</OnClick>
-                <PushedImage>2130</PushedImage>
+                <PushedImage>45</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>6</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -950,21 +950,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>7</ID>
-                <Image>2132</Image>
+                <Image>46</Image>
                 <Left>225</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2133</MouseoverImage>
+                <MouseoverImage>39</MouseoverImage>
                 <Name>btnIconLoad</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconLoad_Click</OnClick>
-                <PushedImage>2134</PushedImage>
+                <PushedImage>46</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>7</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -975,21 +975,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>8</ID>
-                <Image>2140</Image>
+                <Image>43</Image>
                 <Left>289</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2141</MouseoverImage>
+                <MouseoverImage>41</MouseoverImage>
                 <Name>btnIconExit</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconExit_Click</OnClick>
-                <PushedImage>2142</PushedImage>
+                <PushedImage>43</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>8</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1000,21 +1000,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>9</ID>
-                <Image>2136</Image>
+                <Image>42</Image>
                 <Left>257</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2137</MouseoverImage>
+                <MouseoverImage>40</MouseoverImage>
                 <Name>btnIconPanel</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnIconPanel_Click</OnClick>
-                <PushedImage>2138</PushedImage>
+                <PushedImage>42</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>1</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>9</ZOrder>
               </GUIButton>
             </Controls>
@@ -1022,7 +1022,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2169</BackgroundImage>
+              <BackgroundImage>30</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>133</Height>
@@ -1064,21 +1064,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>1</ID>
-                <Image>2116</Image>
+                <Image>48</Image>
                 <Left>39</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2117</MouseoverImage>
+                <MouseoverImage>34</MouseoverImage>
                 <Name>btnInvSelect</Name>
                 <NewModeNumber>2</NewModeNumber>
                 <OnClick>btnInvSelect_Click</OnClick>
-                <PushedImage>2118</PushedImage>
+                <PushedImage>48</PushedImage>
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>101</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>1</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1089,21 +1089,21 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>2</ID>
-                <Image>2104</Image>
+                <Image>49</Image>
                 <Left>4</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2105</MouseoverImage>
+                <MouseoverImage>33</MouseoverImage>
                 <Name>btnInvLook</Name>
                 <NewModeNumber>1</NewModeNumber>
                 <OnClick />
-                <PushedImage>2106</PushedImage>
+                <PushedImage>49</PushedImage>
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
                 <Top>101</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
-                <Width>32</Width>
+                <Width>30</Width>
                 <ZOrder>2</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1114,14 +1114,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>3</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>147</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnInvOK</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Close</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1139,14 +1139,14 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>4</ID>
-                <Image>2144</Image>
+                <Image>22</Image>
                 <Left>188</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2145</MouseoverImage>
+                <MouseoverImage>23</MouseoverImage>
                 <Name>btnInvDown</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnInvDown_Click</OnClick>
-                <PushedImage>2146</PushedImage>
+                <PushedImage>22</PushedImage>
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
@@ -1164,18 +1164,18 @@
                 <Font>0</Font>
                 <Height>27</Height>
                 <ID>5</ID>
-                <Image>2147</Image>
+                <Image>21</Image>
                 <Left>188</Left>
                 <Locked>False</Locked>
-                <MouseoverImage>2148</MouseoverImage>
+                <MouseoverImage>24</MouseoverImage>
                 <Name>btnInvUp</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnInvUp_Click</OnClick>
-                <PushedImage>2149</PushedImage>
+                <PushedImage>21</PushedImage>
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>16</TextColor>
-                <Top>5</Top>
+                <Top>8</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>30</Width>
@@ -1186,7 +1186,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2167</BackgroundImage>
+              <BackgroundImage>29</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>157</Height>
@@ -1211,18 +1211,18 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>0</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnResume</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Resume</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
-                <Top>110</Top>
+                <Top>111</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>71</Width>
@@ -1236,7 +1236,7 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>1</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1261,14 +1261,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>2</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnAbout</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnAbout_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>About</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1286,14 +1286,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>3</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnQuit</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnQuit_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Quit</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1374,14 +1374,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>7</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnDefault</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnDefault_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Default</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1399,18 +1399,18 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>8</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnLoad</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnLoad_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Load</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
-                <Top>26</Top>
+                <Top>27</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>71</Width>
@@ -1478,18 +1478,18 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>12</ID>
-                <Image>2162</Image>
-                <Left>113</Left>
+                <Image>28</Image>
+                <Left>115</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVoice</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnVoice_OnClick</OnClick>
-                <PushedImage>2163</PushedImage>
+                <PushedImage>28</PushedImage>
                 <Text xml:space="preserve">Text only</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
-                <Top>72</Top>
+                <Top>70</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>105</Width>
@@ -1542,14 +1542,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>15</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>8</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestart</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnRestart_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Restart</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1564,7 +1564,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2168</BackgroundImage>
+              <BackgroundImage>27</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>65</Height>
@@ -1607,14 +1607,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>1</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>10</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestartYes</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnRestartYes_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Yes</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1632,14 +1632,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>2</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>123</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestartNo</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>No</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1654,7 +1654,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2167</BackgroundImage>
+              <BackgroundImage>29</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>157</Height>
@@ -1716,18 +1716,18 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>2</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>183</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnSaveGame</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnSaveGame_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Save</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
-                <Top>82</Top>
+                <Top>81</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>71</Width>
@@ -1741,14 +1741,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>3</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>183</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnCancelSave</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1788,14 +1788,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>5</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>183</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnDeleteSave</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnDeleteSave_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Delete</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1810,7 +1810,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2167</BackgroundImage>
+              <BackgroundImage>29</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>157</Height>
@@ -1853,14 +1853,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>1</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>183</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnRestoreGame</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnRestoreGame_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Restore</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1878,14 +1878,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>2</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>183</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnCancelRestore</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -1921,7 +1921,7 @@
           </GUIMain>
           <GUIMain>
             <TextWindowGUI>
-              <BackgroundColor>19248</BackgroundColor>
+              <BackgroundColor>4226</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
               <ID>7</ID>
               <Name>gTextBorder</Name>
@@ -2054,7 +2054,7 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2168</BackgroundImage>
+              <BackgroundImage>27</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>65</Height>
@@ -2079,14 +2079,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>0</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>10</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnConfirmedQuit</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btnConfirmedQuit_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Quit</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -2104,14 +2104,14 @@
                 <Font>0</Font>
                 <Height>19</Height>
                 <ID>1</ID>
-                <Image>2160</Image>
+                <Image>31</Image>
                 <Left>123</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnPlay</Name>
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
+                <PushedImage>31</PushedImage>
                 <Text>Play</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>19248</TextColor>
@@ -4378,13 +4378,533 @@ return
               <SpriteFolder Name="BrickWall">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="20" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="20" Width="66" Height="54" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
                       <FileName>C:\Users\jarmah\Downloads\Brick Wall-1.png.png</FileName>
+                      <OffsetX>101</OffsetX>
+                      <OffsetY>146</OffsetY>
+                      <ImportHeight>54</ImportHeight>
+                      <ImportWidth>66</ImportWidth>
+                      <ImportAsTile>True</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Icons">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="21" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\UpIcon.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>200</ImportHeight>
-                      <ImportWidth>320</ImportWidth>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="22" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\DownIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="23" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightDownIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="24" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightUpIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="25" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\CursorIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="26" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightCursorIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="27" Width="205" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\RestartBackground.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>65</ImportHeight>
+                      <ImportWidth>205</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="28" Width="105" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\TextOnlyIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>19</ImportHeight>
+                      <ImportWidth>105</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="29" Width="259" Height="157" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\PanelBackground.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>157</ImportHeight>
+                      <ImportWidth>259</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="30" Width="223" Height="133" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\InventoryBackground.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>133</ImportHeight>
+                      <ImportWidth>223</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="31" Width="71" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\InventoryClose.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>19</ImportHeight>
+                      <ImportWidth>71</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="32" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightBootIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="33" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightSeeIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="34" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightHandIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="35" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightTalkIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="36" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightInventoryIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="37" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightInventory Icon-1.png.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="38" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightRightIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="39" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightLeftIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="40" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightSettingIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="41" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BrightQuitIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="42" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\SettingIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="43" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\QuitIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="44" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\InventoryIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="45" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\RightIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="46" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\LeftIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="47" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\TalkIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="48" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\HandIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="49" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\SeeIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="50" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\BootIcon.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="51" Width="30" Height="27" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\Inventory Icon-1.png.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>27</ImportHeight>
+                      <ImportWidth>30</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Crab">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="52" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\sprite_crab1.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>32</ImportHeight>
+                      <ImportWidth>32</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="53" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\sprite_crab2.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>32</ImportHeight>
+                      <ImportWidth>32</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="54" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\sprite_crab0.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>32</ImportHeight>
+                      <ImportWidth>32</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
@@ -5374,12 +5894,43 @@ return
               </Loop>
             </Loops>
           </View>
+          <View>
+            <ID>6</ID>
+            <Name>ViewCrab</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>54</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>1</ID>
+                    <Image>52</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>2</ID>
+                    <Image>53</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews>
-      <ViewID>6</ViewID>
-    </DeletedViews>
+    <DeletedViews />
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders />
