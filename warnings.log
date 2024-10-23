@@ -13,7 +13,3 @@ Game : (room:2)[R 51] SetObjectFrame: invalid loop number used for view 1 (10, r
 Game : (room:2)[R 54] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:2)[R 57] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:2)[R 60] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
-Game : (room:2)[R 66] SetObjectFrame: invalid loop number used for view 5 (3, range is 0 - 0)
-Game : (room:2)[R 67] Object.Animate: invalid direction value 2, will treat as BACKWARDS (1)
-Game : (room:2)[R 73] SetObjectFrame: invalid loop number used for view 5 (3, range is 0 - 0)
-Game : (room:2)[R 74] Object.Animate: invalid direction value 2, will treat as BACKWARDS (1)
