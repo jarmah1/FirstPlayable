@@ -2667,6 +2667,19 @@ return
         <StandardMode>False</StandardMode>
         <View>0</View>
       </MouseCursor>
+      <MouseCursor>
+        <Animate>False</Animate>
+        <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
+        <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
+        <AnimationDelay>5</AnimationDelay>
+        <HotspotX>8</HotspotX>
+        <HotspotY>5</HotspotY>
+        <ID>10</ID>
+        <Image>19</Image>
+        <Name>CursorB</Name>
+        <StandardMode>False</StandardMode>
+        <View>0</View>
+      </MouseCursor>
     </Cursors>
     <Fonts>
       <Font>
