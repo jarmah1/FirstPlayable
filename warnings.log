@@ -5,6 +5,7 @@ Game : (room:1)[R 19] SetObjectFrame: invalid loop number used for view 1 (10, r
 Game : (room:1)[R 22] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:1)[R 25] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:1)[R 28] SetObjectFrame: invalid loop number used for view 6 (10, range is 0 - 0)
+Game : (room:1) Dialog: all options have been turned off, stopping dialog.
 Game : (room:2)[R 36] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:2)[R 39] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
 Game : (room:2)[R 42] SetObjectFrame: invalid loop number used for view 1 (10, range is 0 - 0)
