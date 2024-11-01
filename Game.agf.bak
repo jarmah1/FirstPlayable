@@ -2522,15 +2522,9 @@
 cTheSailor: Hey there! Are you also here for the treasure???
 cHelpfulSailor: Hahaha.... no. I'm merely here to give you a few pieces of advice before you head off to get the treasure
 cTheSailor: Oh really? Like what?
-cHelpfulSailor: Well for starters, understand that you will need to protect yourself when looking for treasure
-cHelpfulSailor: There's plenty of sea pirates that you will need to fight throughout the game so that you get the treasure
+cHelpfulSailor: Getting the treasure will not be an easy task, as you will have my obstacles and puzzles to solve.
 cTheSailor: But what will I protect myself with?
-cHelpfulSailor: Don't worry, There's a few tools on your right (next room on right) that you can use to fight off those sea pirates
-cHelpfulSailor: I'm not too sure how to put those tools together, but you seem like a pretty sharp lad , so i'm sure you'll figure a way to craft them.
-cTheSailor: Yeah I'll probably figure something out... Anything else?
-cHelpfulSailor: Oh yeah, speaking of being pretty sharp, you also have a few riddles that you'll need to figure out too.
-cHelpfulSailor: Those will be important, as some places of the sea won't always allow you to enter immediately.
-cHelpfulSailor: Some areas won't require a riddle, and rather a key to use.
+cHelpfulSailor: Don't worry, There's a few tools you will eventually find on the journey that will serve a great use to you
 cTheSailor: Sounds good to me.
 cHelpfulSailor: Alrighty then, good luck on achiveing the treasure, I believe in you young sailor!!!!
 return
@@ -7130,6 +7124,26 @@ return
                       <OffsetY>0</OffsetY>
                       <ImportHeight>140</ImportHeight>
                       <ImportWidth>140</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="sign">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="199" Width="612" Height="490" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\beware (7).png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>490</ImportHeight>
+                      <ImportWidth>612</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
