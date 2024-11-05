@@ -2647,7 +2647,7 @@ return
         <HotspotX>0</HotspotX>
         <HotspotY>0</HotspotY>
         <ID>8</ID>
-        <Image>2054</Image>
+        <Image>19</Image>
         <Name>Usermode1</Name>
         <StandardMode>False</StandardMode>
         <View>0</View>
@@ -2660,7 +2660,7 @@ return
         <HotspotX>0</HotspotX>
         <HotspotY>0</HotspotY>
         <ID>9</ID>
-        <Image>2054</Image>
+        <Image>19</Image>
         <Name>Usermode2</Name>
         <StandardMode>False</StandardMode>
         <View>0</View>
