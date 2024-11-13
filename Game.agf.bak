@@ -676,6 +676,10 @@
             <Description IsNull="True" />
             <Number>6</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>7</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -2161,47 +2165,11 @@
         <SubFolders />
         <InventoryItems>
           <InventoryItem>
-            <CursorImage>2041</CursorImage>
-            <Description xml:space="preserve">Blue Cup</Description>
-            <HotspotX>1</HotspotX>
-            <HotspotY>1</HotspotY>
-            <ID>1</ID>
-            <Image>2041</Image>
-            <Name>iBlueCup</Name>
-            <PlayerStartsWithItem>True</PlayerStartsWithItem>
-            <Properties />
-            <Interactions>
-              <Event Index="0" />
-              <Event Index="1" />
-              <Event Index="2" />
-              <Event Index="3" />
-              <Event Index="4" />
-            </Interactions>
-          </InventoryItem>
-          <InventoryItem>
-            <CursorImage>2042</CursorImage>
-            <Description>Key</Description>
-            <HotspotX>1</HotspotX>
-            <HotspotY>1</HotspotY>
-            <ID>2</ID>
-            <Image>2042</Image>
-            <Name>iKey</Name>
-            <PlayerStartsWithItem>True</PlayerStartsWithItem>
-            <Properties />
-            <Interactions>
-              <Event Index="0" />
-              <Event Index="1" />
-              <Event Index="2" />
-              <Event Index="3" />
-              <Event Index="4" />
-            </Interactions>
-          </InventoryItem>
-          <InventoryItem>
             <CursorImage>18</CursorImage>
             <Description xml:space="preserve">New inventory item</Description>
             <HotspotX>6</HotspotX>
             <HotspotY>2</HotspotY>
-            <ID>3</ID>
+            <ID>1</ID>
             <Image>18</Image>
             <Name>iStick</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
@@ -2219,7 +2187,7 @@
             <Description xml:space="preserve">New inventory item</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
-            <ID>4</ID>
+            <ID>2</ID>
             <Image>17</Image>
             <Name>iBronze</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
@@ -2237,7 +2205,7 @@
             <Description xml:space="preserve">New inventory item</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
-            <ID>5</ID>
+            <ID>3</ID>
             <Image>19</Image>
             <Name>iBronzeSword</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
