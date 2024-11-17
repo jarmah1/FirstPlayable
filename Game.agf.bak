@@ -9408,7 +9408,9 @@ return
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews />
+    <DeletedViews>
+      <ViewID>21</ViewID>
+    </DeletedViews>
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders />
