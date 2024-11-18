@@ -73,5 +73,5 @@ Game : (room:5)[R 33] SetObjectFrame: invalid loop number used for view 15 (10, 
 Game : (room:5)[R 35] SetObjectFrame: invalid loop number used for view 17 (10, range is 0 - 0)
 Game : (room:5)[R 38] SetObjectFrame: invalid loop number used for view 13 (10, range is 0 - 0)
 Game : (room:7)[R 21] SetObjectFrame: invalid loop number used for view 18 (10, range is 0 - 0)
-Game : (room:7)[R 24] SetObjectFrame: invalid loop number used for view 18 (10, range is 0 - 0)
-Game : (room:7)[R 27] SetObjectFrame: invalid loop number used for view 18 (10, range is 0 - 0)
+Game : (room:7)[R 24] SetObjectFrame: invalid loop number used for view 20 (10, range is 0 - 0)
+Game : (room:7)[R 27] SetObjectFrame: invalid loop number used for view 22 (10, range is 0 - 0)
