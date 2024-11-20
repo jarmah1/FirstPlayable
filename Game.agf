@@ -680,6 +680,10 @@
             <Description IsNull="True" />
             <Number>7</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>8</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -2219,13 +2223,13 @@
             </Interactions>
           </InventoryItem>
           <InventoryItem>
-            <CursorImage>214</CursorImage>
+            <CursorImage>213</CursorImage>
             <Description xml:space="preserve">New inventory item</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
-            <ID>6</ID>
-            <Image>214</Image>
-            <Name>iIronStick</Name>
+            <ID>4</ID>
+            <Image>213</Image>
+            <Name>iIronSword</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -2255,13 +2259,13 @@
             </Interactions>
           </InventoryItem>
           <InventoryItem>
-            <CursorImage>213</CursorImage>
+            <CursorImage>214</CursorImage>
             <Description xml:space="preserve">New inventory item</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
-            <ID>4</ID>
-            <Image>213</Image>
-            <Name>iIronSword</Name>
+            <ID>6</ID>
+            <Image>214</Image>
+            <Name>iIronStick</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -2316,6 +2320,24 @@
             <ID>9</ID>
             <Image>218</Image>
             <Name>iSilverSword</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>219</CursorImage>
+            <Description xml:space="preserve">New inventory item</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>10</ID>
+            <Image>219</Image>
+            <Name>iKey</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -2520,8 +2542,8 @@
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>52267</SpeechColor>
             <SpeechView>0</SpeechView>
-            <StartX>212</StartX>
-            <StartY>194</StartY>
+            <StartX>49</StartX>
+            <StartY>178</StartY>
             <StartingRoom>1</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
@@ -7531,6 +7553,26 @@ return
                       <ImportHeight>21</ImportHeight>
                       <ImportWidth>20</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Key">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="219" Width="25" Height="11" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\key (2).png</FileName>
+                      <OffsetX>80</OffsetX>
+                      <OffsetY>128</OffsetY>
+                      <ImportHeight>11</ImportHeight>
+                      <ImportWidth>25</ImportWidth>
+                      <ImportAsTile>True</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
