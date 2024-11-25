@@ -688,6 +688,10 @@
             <Description IsNull="True" />
             <Number>9</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>10</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -7585,6 +7589,30 @@ return
                     </Source>
                   </Sprite>
                 </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="door">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="220" Width="108" Height="108" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\jarmah\Downloads\New Piskel-1.png (3) (4).png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>108</ImportHeight>
+                      <ImportWidth>108</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="treasure">
+                <SubFolders />
+                <Sprites />
               </SpriteFolder>
             </SubFolders>
             <Sprites>
