@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>7</AudioIndexer>
+      <AudioIndexer>14</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets xml:space="preserve">Windows, Web</BuildTargets>
@@ -691,6 +691,10 @@
           <UnloadedRoom>
             <Description IsNull="True" />
             <Number>10</Number>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>11</Number>
           </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
@@ -9387,7 +9391,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>3</Image>
-                    <Sound>0</Sound>
+                    <Sound>9</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -9414,7 +9418,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>12</Image>
-                    <Sound>0</Sound>
+                    <Sound>9</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -9441,7 +9445,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>9</Image>
-                    <Sound>0</Sound>
+                    <Sound>9</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -9468,7 +9472,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>6</Image>
-                    <Sound>0</Sound>
+                    <Sound>9</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -9591,7 +9595,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>54</Image>
-                    <Sound>0</Sound>
+                    <Sound>10</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -9932,7 +9936,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>96</Image>
-                    <Sound>0</Sound>
+                    <Sound>6</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -10786,7 +10790,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>204</Image>
-                    <Sound>0</Sound>
+                    <Sound>11</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
@@ -10838,7 +10842,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>208</Image>
-                    <Sound>0</Sound>
+                    <Sound>11</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
@@ -10890,7 +10894,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>212</Image>
-                    <Sound>0</Sound>
+                    <Sound>11</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
@@ -10909,7 +10913,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>221</Image>
-                    <Sound>0</Sound>
+                    <Sound>6</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -10956,7 +10960,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>0</ID>
                     <Image>226</Image>
-                    <Sound>0</Sound>
+                    <Sound>14</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -11222,7 +11226,7 @@ return
                     <Flipped>False</Flipped>
                     <ID>38</ID>
                     <Image>264</Image>
-                    <Sound>0</Sound>
+                    <Sound>13</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
@@ -11704,6 +11708,84 @@ See KeyboardMovement.txt for details.
             <SourceFileName>C:\Users\jarmah\Downloads\guy-glass-break-made-with-Voicemod.mp3</SourceFileName>
             <Type>1</Type>
             <FileLastModifiedDate>2024-11-01 17:54:44Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>7</ID>
+            <Index>8</Index>
+            <ScriptName>aPerson_walking_on_rocks_and_sand_100586__mp3cut_net_</ScriptName>
+            <SourceFileName xml:space="preserve">C:\Users\jarmah\Downloads\person-walking-on-rocks-and-sand-100586 (mp3cut.net).mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:13:59Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>8</ID>
+            <Index>9</Index>
+            <ScriptName>aPerson_walking_on_rocks_and_sand_100586__mp3cut_net___AudioTrimmer_com_</ScriptName>
+            <SourceFileName xml:space="preserve">C:\Users\jarmah\Downloads\person-walking-on-rocks-and-sand-100586 (mp3cut.net)-[AudioTrimmer.com].mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:20:10Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>9</ID>
+            <Index>10</Index>
+            <ScriptName>aMr__krabs_walking_sound_effect_made_with_Voicemod</ScriptName>
+            <SourceFileName>C:\Users\jarmah\Downloads\mr.-krabs-walking-sound-effect-made-with-Voicemod.mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:24:51Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>10</ID>
+            <Index>11</Index>
+            <ScriptName>aSword_sound_effect_2_234986</ScriptName>
+            <SourceFileName>C:\Users\jarmah\Downloads\sword-sound-effect-2-234986.mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:33:17Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>11</ID>
+            <Index>13</Index>
+            <ScriptName>aNaruto_sound_effect_poof_free_made_with_Voicemod</ScriptName>
+            <SourceFileName>C:\Users\jarmah\Downloads\naruto-sound-effect-poof-free-made-with-Voicemod.mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:52:00Z</FileLastModifiedDate>
+          </AudioClip>
+          <AudioClip>
+            <BundlingType>InGameEXE</BundlingType>
+            <DefaultPriority>Inherit</DefaultPriority>
+            <DefaultRepeat>Inherit</DefaultRepeat>
+            <DefaultVolume>-1</DefaultVolume>
+            <FileType>MP3</FileType>
+            <ID>12</ID>
+            <Index>14</Index>
+            <ScriptName>aTea_kettle_mono_44_75270__mp3cut_net_</ScriptName>
+            <SourceFileName xml:space="preserve">C:\Users\jarmah\Downloads\tea-kettle-mono-44-75270 (mp3cut.net).mp3</SourceFileName>
+            <Type>1</Type>
+            <FileLastModifiedDate>2024-11-26 13:54:45Z</FileLastModifiedDate>
           </AudioClip>
         </AudioClips>
         <AudioClipFolder>
